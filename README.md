@@ -6,7 +6,7 @@
 
 This package contains a [Flysystem v2](https://flysystem.thephpleague.com/) adapter for Dropbox. Under the hood, the [Dropbox API v2](https://www.dropbox.com/developers/documentation/http/overview) is used.
 
-## Using Flystem v1
+## Using Flysystem v1
 
 If you're using Flysystem v1, then use [v1 of flysystem-dropbox](https://github.com/spatie/flysystem-dropbox/tree/v1).
 
@@ -16,7 +16,7 @@ If you're using Flysystem v1, then use [v1 of flysystem-dropbox](https://github.
 
 We invest a lot of resources into creating [best in class open source packages](https://spatie.be/open-source). You can support us by [buying one of our paid products](https://spatie.be/open-source/support-us).
 
-We highly appreciate you sending us a postcard from your hometown, mentioning which of our package(s) you are using. You'll find our address on [our contact page](https://spatie.be/about-us). We publish all received postcards on [our virtual postcard wall](https://spatie.be/open-source/postcards).
+We highly appreciate your sending us a postcard from your hometown, mentioning which of our package(s) you are using. You'll find our address on [our contact page](https://spatie.be/about-us). We publish all received postcards on [our virtual postcard wall](https://spatie.be/open-source/postcards).
 
 ## Installation
 
